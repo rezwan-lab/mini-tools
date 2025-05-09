@@ -18,7 +18,7 @@ import json, io
 from google.colab import drive
 drive.mount('/content/drive')
 
-df = pd.read_table("/content/drive/MyDrive/Colab Notebooks/WA102_WHO/nextstrain_metadata_WA102_WHO _v3.tsv", sep='\t')
+df = pd.read_table("/content/drive/.../nextstrain_metadata.tsv", sep='\t')
 
 df.head(2)
 
