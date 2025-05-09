@@ -22,3 +22,13 @@ Clone the repository and run any of the scripts or Jupyter notebooks as needed:
 ```bash
 git clone https://github.com/rezwan-lab/mini-tools.git
 cd mini-tools
+```
+
+## 📌 Use Cases
+- Quick data preprocessing  
+- Comparative analysis between datasets  
+- Sample selection and subset creation  
+- Custom joins and merges  
+
+## 👨‍💻 Author
+Developed by **Rezwanuzzaman Laskar**  
